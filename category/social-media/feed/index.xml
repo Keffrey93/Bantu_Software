@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Social Media &#8211; Bantu_Software</title>
+	<atom:link href="https://keffrey93.github.io/Bantu_Software/category/social-media/feed/" rel="self" type="application/rss+xml" />
+	<link>https://keffrey93.github.io/Bantu_Software/</link>
+	<description></description>
+	<lastBuildDate>Thu, 19 Oct 2023 13:45:40 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Quel est le véritable lien entre BDD et TDD ?</title>
+		<link>https://keffrey93.github.io/Bantu_Software/how-do-you-vulputate-nullam-mattis/</link>
+					<comments>https://keffrey93.github.io/Bantu_Software/how-do-you-vulputate-nullam-mattis/#respond</comments>
+		
+		<dc:creator><![CDATA[Keff]]></dc:creator>
+		<pubDate>Mon, 24 May 2021 09:30:26 +0000</pubDate>
+				<category><![CDATA[Social Media]]></category>
+		<guid isPermaLink="false">https://keffrey93.github.io/Bantu_Software/how-do-you-vulputate-nullam-mattis/</guid>
+
+					<description><![CDATA[BDD et TDD, ces éternels incompris ? La pensée commune que l&#8217;on retrouve en entreprise est la suivante : « BDD décrit des tests d&#8217;acceptation plus macro donc que les tests en TDD qui sont plus fins ».Cette approche est clairement fausse dans 99% des cas. Comment le comprendre alors ? Libero dui quis ultrices morbi integer &#8230;<p class="read-more"> <a class="" href="https://keffrey93.github.io/Bantu_Software/how-do-you-vulputate-nullam-mattis/"> <span class="screen-reader-text">Quel est le véritable lien entre BDD et TDD ?</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>BDD et TDD, ces éternels incompris ?</p>
+
+
+
+<p>La pensée commune que l&rsquo;on retrouve en entreprise est la suivante :</p>
+
+
+
+<p>« BDD décrit des tests d&rsquo;acceptation plus macro donc que les tests en TDD qui sont plus fins ».<br>Cette approche est clairement fausse dans 99% des cas.</p>
+
+
+
+<p>Comment le comprendre alors ?</p>
+
+
+
+<blockquote class=\"wp-block-quote\"><p>Libero dui quis ultrices morbi integer sagittis sapien lobortis ut tincidunt felis consectetur sagittis at mattis donec sed quis erat id nisl ut consequat.</p><cite>Lorem Ipsum</cite></blockquote>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://keffrey93.github.io/Bantu_Software/how-do-you-vulputate-nullam-mattis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

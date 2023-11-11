@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Digital Marketing &#8211; Bantu_Software</title>
+	<atom:link href="https://keffrey93.github.io/Bantu_Software/category/digital-marketing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://keffrey93.github.io/Bantu_Software/</link>
+	<description></description>
+	<lastBuildDate>Thu, 19 Oct 2023 13:44:22 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Les technos/frameworks ne suffisent pas du tout à devenir un bon développeur !</title>
+		<link>https://keffrey93.github.io/Bantu_Software/what-do-aliquam-sed-fringilla/</link>
+					<comments>https://keffrey93.github.io/Bantu_Software/what-do-aliquam-sed-fringilla/#respond</comments>
+		
+		<dc:creator><![CDATA[Keff]]></dc:creator>
+		<pubDate>Mon, 24 May 2021 09:32:15 +0000</pubDate>
+				<category><![CDATA[Digital Marketing]]></category>
+		<guid isPermaLink="false">https://keffrey93.github.io/Bantu_Software/what-do-aliquam-sed-fringilla/</guid>
+
+					<description><![CDATA[La plupart des développeurs de nos jours font l&#8217;impasse sur les méthodes de conception logicielle, pensant alors être opérationnel pour réaliser de bonnes applications d&#8217;entreprise. En effet, les développeurs mettent l&#8217;accent sur les technos comme les frameworks ou les langages, sans se soucier des disciplines relatives à la conception. Libero dui quis ultrices morbi integer &#8230;<p class="read-more"> <a class="" href="https://keffrey93.github.io/Bantu_Software/what-do-aliquam-sed-fringilla/"> <span class="screen-reader-text">Les technos/frameworks ne suffisent pas du tout à devenir un bon développeur !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>La plupart des développeurs de nos jours font l&rsquo;impasse sur les méthodes de conception logicielle, pensant alors être opérationnel pour réaliser de bonnes applications d&rsquo;entreprise.</p>
+
+
+
+<p>En effet, les développeurs mettent l&rsquo;accent sur les technos comme les frameworks ou les langages, sans se soucier des disciplines relatives à la conception.</p>
+
+
+
+<blockquote class=\"wp-block-quote\"><p>Libero dui quis ultrices morbi integer sagittis sapien lobortis ut tincidunt felis consectetur sagittis at mattis donec sed quis erat id nisl ut consequat.</p><cite>Lorem Ipsum</cite></blockquote>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://keffrey93.github.io/Bantu_Software/what-do-aliquam-sed-fringilla/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

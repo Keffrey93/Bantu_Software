@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Keff &#8211; Bantu_Software</title>
+	<atom:link href="https://keffrey93.github.io/Bantu_Software/author/keff/feed/" rel="self" type="application/rss+xml" />
+	<link>https://keffrey93.github.io/Bantu_Software/</link>
+	<description></description>
+	<lastBuildDate>Thu, 19 Oct 2023 13:45:40 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>T&#8217;es Craftsman et t&#8217;es détesté, à toi de faire adorer !</title>
+		<link>https://keffrey93.github.io/Bantu_Software/tes-craftsman-et-tes-deteste-a-toi-de-faire-adorer/</link>
+					<comments>https://keffrey93.github.io/Bantu_Software/tes-craftsman-et-tes-deteste-a-toi-de-faire-adorer/#respond</comments>
+		
+		<dc:creator><![CDATA[Keff]]></dc:creator>
+		<pubDate>Thu, 19 Oct 2023 13:41:21 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://keffrey93.github.io/Bantu_Software/?p=1458</guid>
+
+					<description><![CDATA[Lorsque les gens entendent TDD, ils comprennent « un test écrit avant de coder ».Seulement cette phrase à être seule peut être bien trompeuse, s&#8217;écartant alors du vrai TDD. Quelle est donc la différence en Test-First et TDD ? Que manque-t-il donc à cette phrase pour cibler le TDD sans mauvaise connotation ? Michaël AZERHAD explique tout &#8230;<p class="read-more"> <a class="" href="https://keffrey93.github.io/Bantu_Software/tes-craftsman-et-tes-deteste-a-toi-de-faire-adorer/"> <span class="screen-reader-text">T&#8217;es Craftsman et t&#8217;es détesté, à toi de faire adorer !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Lorsque les gens entendent TDD, ils comprennent « un test écrit avant de coder ».<br>Seulement cette phrase à être seule peut être bien trompeuse, s&rsquo;écartant alors du vrai TDD.</p>
+
+
+
+<p>Quelle est donc la différence en Test-First et TDD ? Que manque-t-il donc à cette phrase pour cibler le TDD sans mauvaise connotation ?</p>
+
+
+<style>/*! elementor - v3.16.0 - 17-10-2023 */<br />
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>
+<p>Michaël AZERHAD explique tout dans cette vidéo avec ferveur !</p>
+<p>		https://www.youtube.com/watch?v=XHOmBV4js_E</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://keffrey93.github.io/Bantu_Software/tes-craftsman-et-tes-deteste-a-toi-de-faire-adorer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Test-First vs TDD, l&#8217;énorme différence !</title>
+		<link>https://keffrey93.github.io/Bantu_Software/test-first-vs-tdd-lenorme-difference/</link>
+					<comments>https://keffrey93.github.io/Bantu_Software/test-first-vs-tdd-lenorme-difference/#comments</comments>
+		
+		<dc:creator><![CDATA[Keff]]></dc:creator>
+		<pubDate>Mon, 16 Oct 2023 16:00:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://keffrey93.github.io/Bantu_Software/?p=1</guid>
+
+					<description><![CDATA[Lorsque les gens entendent TDD, ils comprennent « un test écrit avant de coder ».Seulement cette phrase à être seule peut être bien trompeuse, s&#8217;écartant alors du vrai TDD. Quelle est donc la différence en Test-First et TDD ? Que manque-t-il donc à cette phrase pour cibler le TDD sans mauvaise connotation ? Michaël AZERHAD explique tout &#8230;<p class="read-more"> <a class="" href="https://keffrey93.github.io/Bantu_Software/test-first-vs-tdd-lenorme-difference/"> <span class="screen-reader-text">Test-First vs TDD, l&#8217;énorme différence !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Lorsque les gens entendent TDD, ils comprennent « un test écrit avant de coder ».<br>Seulement cette phrase à être seule peut être bien trompeuse, s&rsquo;écartant alors du vrai TDD.</p>
+
+
+
+<p>Quelle est donc la différence en Test-First et TDD ? Que manque-t-il donc à cette phrase pour cibler le TDD sans mauvaise connotation ?</p>
+
+
+<style>/*! elementor - v3.16.0 - 17-10-2023 */<br />
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>
+<p>Michaël AZERHAD explique tout dans cette vidéo avec ferveur !</p>
+<p>		https://www.youtube.com/watch?v=XHOmBV4js_E</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://keffrey93.github.io/Bantu_Software/test-first-vs-tdd-lenorme-difference/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Qu&#8217;est-ce que le TDD, le vrai !</title>
+		<link>https://keffrey93.github.io/Bantu_Software/how-artist-can-nulla-vitae-turpis-vel/</link>
+					<comments>https://keffrey93.github.io/Bantu_Software/how-artist-can-nulla-vitae-turpis-vel/#respond</comments>
+		
+		<dc:creator><![CDATA[Keff]]></dc:creator>
+		<pubDate>Mon, 24 May 2021 09:33:45 +0000</pubDate>
+				<category><![CDATA[Creative]]></category>
+		<guid isPermaLink="false">https://keffrey93.github.io/Bantu_Software/how-artist-can-nulla-vitae-turpis-vel/</guid>
+
+					<description><![CDATA[16 juin 2021 Qu&#8217;est-ce que le TDD et notamment le VRAI TDD ?Y&#8217;aurait-il un FAUX TDD ?!Pourquoi le TDD est une réelle merveille une fois compris ? Merveille qui peut changer la donne de tous vos projets si maîtrisé, notamment en terme de plaisir de code, et oui !]]></description>
+										<content:encoded><![CDATA[
+<h4 class="wp-block-heading">16 juin 2021</h4>
+
+
+
+<p>Qu&rsquo;est-ce que le TDD et notamment le VRAI TDD ?<br>Y&rsquo;aurait-il un FAUX TDD ?!<br>Pourquoi le TDD est une réelle merveille une fois compris ?</p>
+
+
+
+<p>Merveille qui peut changer la donne de tous vos projets si maîtrisé, notamment en terme de plaisir de code, et oui !</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://keffrey93.github.io/Bantu_Software/how-artist-can-nulla-vitae-turpis-vel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Les technos/frameworks ne suffisent pas du tout à devenir un bon développeur !</title>
+		<link>https://keffrey93.github.io/Bantu_Software/what-do-aliquam-sed-fringilla/</link>
+					<comments>https://keffrey93.github.io/Bantu_Software/what-do-aliquam-sed-fringilla/#respond</comments>
+		
+		<dc:creator><![CDATA[Keff]]></dc:creator>
+		<pubDate>Mon, 24 May 2021 09:32:15 +0000</pubDate>
+				<category><![CDATA[Digital Marketing]]></category>
+		<guid isPermaLink="false">https://keffrey93.github.io/Bantu_Software/what-do-aliquam-sed-fringilla/</guid>
+
+					<description><![CDATA[La plupart des développeurs de nos jours font l&#8217;impasse sur les méthodes de conception logicielle, pensant alors être opérationnel pour réaliser de bonnes applications d&#8217;entreprise. En effet, les développeurs mettent l&#8217;accent sur les technos comme les frameworks ou les langages, sans se soucier des disciplines relatives à la conception. Libero dui quis ultrices morbi integer &#8230;<p class="read-more"> <a class="" href="https://keffrey93.github.io/Bantu_Software/what-do-aliquam-sed-fringilla/"> <span class="screen-reader-text">Les technos/frameworks ne suffisent pas du tout à devenir un bon développeur !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>La plupart des développeurs de nos jours font l&rsquo;impasse sur les méthodes de conception logicielle, pensant alors être opérationnel pour réaliser de bonnes applications d&rsquo;entreprise.</p>
+
+
+
+<p>En effet, les développeurs mettent l&rsquo;accent sur les technos comme les frameworks ou les langages, sans se soucier des disciplines relatives à la conception.</p>
+
+
+
+<blockquote class=\"wp-block-quote\"><p>Libero dui quis ultrices morbi integer sagittis sapien lobortis ut tincidunt felis consectetur sagittis at mattis donec sed quis erat id nisl ut consequat.</p><cite>Lorem Ipsum</cite></blockquote>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://keffrey93.github.io/Bantu_Software/what-do-aliquam-sed-fringilla/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Quel est le véritable lien entre BDD et TDD ?</title>
+		<link>https://keffrey93.github.io/Bantu_Software/how-do-you-vulputate-nullam-mattis/</link>
+					<comments>https://keffrey93.github.io/Bantu_Software/how-do-you-vulputate-nullam-mattis/#respond</comments>
+		
+		<dc:creator><![CDATA[Keff]]></dc:creator>
+		<pubDate>Mon, 24 May 2021 09:30:26 +0000</pubDate>
+				<category><![CDATA[Social Media]]></category>
+		<guid isPermaLink="false">https://keffrey93.github.io/Bantu_Software/how-do-you-vulputate-nullam-mattis/</guid>
+
+					<description><![CDATA[BDD et TDD, ces éternels incompris ? La pensée commune que l&#8217;on retrouve en entreprise est la suivante : « BDD décrit des tests d&#8217;acceptation plus macro donc que les tests en TDD qui sont plus fins ».Cette approche est clairement fausse dans 99% des cas. Comment le comprendre alors ? Libero dui quis ultrices morbi integer &#8230;<p class="read-more"> <a class="" href="https://keffrey93.github.io/Bantu_Software/how-do-you-vulputate-nullam-mattis/"> <span class="screen-reader-text">Quel est le véritable lien entre BDD et TDD ?</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>BDD et TDD, ces éternels incompris ?</p>
+
+
+
+<p>La pensée commune que l&rsquo;on retrouve en entreprise est la suivante :</p>
+
+
+
+<p>« BDD décrit des tests d&rsquo;acceptation plus macro donc que les tests en TDD qui sont plus fins ».<br>Cette approche est clairement fausse dans 99% des cas.</p>
+
+
+
+<p>Comment le comprendre alors ?</p>
+
+
+
+<blockquote class=\"wp-block-quote\"><p>Libero dui quis ultrices morbi integer sagittis sapien lobortis ut tincidunt felis consectetur sagittis at mattis donec sed quis erat id nisl ut consequat.</p><cite>Lorem Ipsum</cite></blockquote>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://keffrey93.github.io/Bantu_Software/how-do-you-vulputate-nullam-mattis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

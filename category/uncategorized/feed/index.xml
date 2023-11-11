@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Bantu_Software</title>
+	<atom:link href="https://keffrey93.github.io/Bantu_Software/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://keffrey93.github.io/Bantu_Software/</link>
+	<description></description>
+	<lastBuildDate>Thu, 19 Oct 2023 13:43:41 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>T&#8217;es Craftsman et t&#8217;es détesté, à toi de faire adorer !</title>
+		<link>https://keffrey93.github.io/Bantu_Software/tes-craftsman-et-tes-deteste-a-toi-de-faire-adorer/</link>
+					<comments>https://keffrey93.github.io/Bantu_Software/tes-craftsman-et-tes-deteste-a-toi-de-faire-adorer/#respond</comments>
+		
+		<dc:creator><![CDATA[Keff]]></dc:creator>
+		<pubDate>Thu, 19 Oct 2023 13:41:21 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://keffrey93.github.io/Bantu_Software/?p=1458</guid>
+
+					<description><![CDATA[Lorsque les gens entendent TDD, ils comprennent « un test écrit avant de coder ».Seulement cette phrase à être seule peut être bien trompeuse, s&#8217;écartant alors du vrai TDD. Quelle est donc la différence en Test-First et TDD ? Que manque-t-il donc à cette phrase pour cibler le TDD sans mauvaise connotation ? Michaël AZERHAD explique tout &#8230;<p class="read-more"> <a class="" href="https://keffrey93.github.io/Bantu_Software/tes-craftsman-et-tes-deteste-a-toi-de-faire-adorer/"> <span class="screen-reader-text">T&#8217;es Craftsman et t&#8217;es détesté, à toi de faire adorer !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Lorsque les gens entendent TDD, ils comprennent « un test écrit avant de coder ».<br>Seulement cette phrase à être seule peut être bien trompeuse, s&rsquo;écartant alors du vrai TDD.</p>
+
+
+
+<p>Quelle est donc la différence en Test-First et TDD ? Que manque-t-il donc à cette phrase pour cibler le TDD sans mauvaise connotation ?</p>
+
+
+<style>/*! elementor - v3.16.0 - 17-10-2023 */<br />
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>
+<p>Michaël AZERHAD explique tout dans cette vidéo avec ferveur !</p>
+<p>		https://www.youtube.com/watch?v=XHOmBV4js_E</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://keffrey93.github.io/Bantu_Software/tes-craftsman-et-tes-deteste-a-toi-de-faire-adorer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Test-First vs TDD, l&#8217;énorme différence !</title>
+		<link>https://keffrey93.github.io/Bantu_Software/test-first-vs-tdd-lenorme-difference/</link>
+					<comments>https://keffrey93.github.io/Bantu_Software/test-first-vs-tdd-lenorme-difference/#comments</comments>
+		
+		<dc:creator><![CDATA[Keff]]></dc:creator>
+		<pubDate>Mon, 16 Oct 2023 16:00:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://keffrey93.github.io/Bantu_Software/?p=1</guid>
+
+					<description><![CDATA[Lorsque les gens entendent TDD, ils comprennent « un test écrit avant de coder ».Seulement cette phrase à être seule peut être bien trompeuse, s&#8217;écartant alors du vrai TDD. Quelle est donc la différence en Test-First et TDD ? Que manque-t-il donc à cette phrase pour cibler le TDD sans mauvaise connotation ? Michaël AZERHAD explique tout &#8230;<p class="read-more"> <a class="" href="https://keffrey93.github.io/Bantu_Software/test-first-vs-tdd-lenorme-difference/"> <span class="screen-reader-text">Test-First vs TDD, l&#8217;énorme différence !</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Lorsque les gens entendent TDD, ils comprennent « un test écrit avant de coder ».<br>Seulement cette phrase à être seule peut être bien trompeuse, s&rsquo;écartant alors du vrai TDD.</p>
+
+
+
+<p>Quelle est donc la différence en Test-First et TDD ? Que manque-t-il donc à cette phrase pour cibler le TDD sans mauvaise connotation ?</p>
+
+
+<style>/*! elementor - v3.16.0 - 17-10-2023 */<br />
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>
+<p>Michaël AZERHAD explique tout dans cette vidéo avec ferveur !</p>
+<p>		https://www.youtube.com/watch?v=XHOmBV4js_E</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://keffrey93.github.io/Bantu_Software/test-first-vs-tdd-lenorme-difference/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

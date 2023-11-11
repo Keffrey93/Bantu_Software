@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Creative &#8211; Bantu_Software</title>
+	<atom:link href="https://keffrey93.github.io/Bantu_Software/category/creative/feed/" rel="self" type="application/rss+xml" />
+	<link>https://keffrey93.github.io/Bantu_Software/</link>
+	<description></description>
+	<lastBuildDate>Thu, 19 Oct 2023 06:00:36 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Qu&#8217;est-ce que le TDD, le vrai !</title>
+		<link>https://keffrey93.github.io/Bantu_Software/how-artist-can-nulla-vitae-turpis-vel/</link>
+					<comments>https://keffrey93.github.io/Bantu_Software/how-artist-can-nulla-vitae-turpis-vel/#respond</comments>
+		
+		<dc:creator><![CDATA[Keff]]></dc:creator>
+		<pubDate>Mon, 24 May 2021 09:33:45 +0000</pubDate>
+				<category><![CDATA[Creative]]></category>
+		<guid isPermaLink="false">https://keffrey93.github.io/Bantu_Software/how-artist-can-nulla-vitae-turpis-vel/</guid>
+
+					<description><![CDATA[16 juin 2021 Qu&#8217;est-ce que le TDD et notamment le VRAI TDD ?Y&#8217;aurait-il un FAUX TDD ?!Pourquoi le TDD est une réelle merveille une fois compris ? Merveille qui peut changer la donne de tous vos projets si maîtrisé, notamment en terme de plaisir de code, et oui !]]></description>
+										<content:encoded><![CDATA[
+<h4 class="wp-block-heading">16 juin 2021</h4>
+
+
+
+<p>Qu&rsquo;est-ce que le TDD et notamment le VRAI TDD ?<br>Y&rsquo;aurait-il un FAUX TDD ?!<br>Pourquoi le TDD est une réelle merveille une fois compris ?</p>
+
+
+
+<p>Merveille qui peut changer la donne de tous vos projets si maîtrisé, notamment en terme de plaisir de code, et oui !</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://keffrey93.github.io/Bantu_Software/how-artist-can-nulla-vitae-turpis-vel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
